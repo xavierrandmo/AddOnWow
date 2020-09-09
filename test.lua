@@ -31,7 +31,7 @@ function printLines(...)
     end
 end
 
---printLines("a","b","c")
+printLines("a","b","c")
 
 local str = "Hello, World!"
 print(str:match("Hello$"))
